@@ -8,7 +8,7 @@ description: How the Snakes Escape Android game handles your data.
 **Effective date:** 19 August 2026
 **Hosted at:** https://maham0317.github.io/policies/snakes-escape/
 **Developer:** GulzarDev
-**Contact:** gulzardev40@gmail.com
+**Contact:** gulzardev41@gmail.com
 
 This Privacy Policy explains how the mobile game **Snakes Escape** (“the App”, “we”,
 “us”) handles information. We have built the App to need as little of your data as
@@ -119,4 +119,4 @@ a new effective date.
 
 ## 10. Contact
 If you have any questions about this Privacy Policy, contact:
-**gulzardev40@gmail.com**
+**gulzardev41@gmail.com**

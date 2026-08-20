@@ -8,4 +8,4 @@ Privacy policies for our mobile games.
 
 - [Snakes Escape — Privacy Policy](snakes-escape/)
 
-Contact: **gulzardev40@gmail.com**
+Contact: **gulzardev41@gmail.com**
